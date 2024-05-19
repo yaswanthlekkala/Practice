@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+
+// Declaration:
 int* twosum(int* nums, int numsSize, int target, int* returnSize);
 
 int main() {
